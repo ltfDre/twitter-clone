@@ -24,5 +24,5 @@ date-fns
 # 
 
 
-![Twitter Clone]([url=https://hizliresim.com/W7cUai][img]https://i.hizliresim.com/W7cUai.gif[/img][/url])
+![Twitter Clone](https://i.hizliresim.com/W7cUai.gif)
 
