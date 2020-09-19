@@ -10,32 +10,15 @@ function HomePage() {
       <Tweet 
         name="Lütfi Dereli" 
         slug="ltfDre" 
-        dateTime={new Date("2020-08-25")}
-        text={`Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. `}
+        dateTime={new Date("2020-09-19")}
+        text={`This is my first clone project by Next JS ! 🎉`}
         >
       </Tweet>
       <Tweet 
         name="Lütfi Dereli" 
         slug="ltfDre" 
-        dateTime={new Date("2020-08-25")}
-        text={`Sed ut perspiciatis 
-        unde omnis iste natus error sit voluptatem accusantium 
-        
-        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. `}
-        >
-      </Tweet>
-      <Tweet 
-        name="Lütfi Dereli" 
-        slug="ltfDre" 
-        dateTime={new Date("2020-09-07")}
-        text={`Ne oldun bizim agiler. `}
-        >
-      </Tweet>
-      <Tweet 
-        name="Lütfi Dereli" 
-        slug="ltfDre" 
-        dateTime={new Date("2020-09-07")}
-        text={`Ne oldun bizim agiler. `}
+        dateTime={new Date("2020-09-19")}
+        text={`You can create amazing side projects like this, too !  💫`}
         >
       </Tweet>
     </Layout>
